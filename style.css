@@ -5,7 +5,7 @@
     background-color: #fceae8;
     border-radius: 10px;
 }
-.carousal-item{
+.carousel-item{
     padding: 20px 40px;
 }
 .price{
@@ -18,4 +18,27 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: orangered;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: purple;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width:100px
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
 }
